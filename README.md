@@ -21,8 +21,8 @@
   4. Вопрос: Если ехать по лесу на велосипеде: хроматические линзы норм?
 1. **подставка для ручек**
     - типа таких   
-   1. https://www.ikea.com/ru/ru/catalog/products/10398226/
-   1. https://www.ikea.com/ru/ru/catalog/products/90374448/
+   1. [Раз](https://www.ikea.com/ru/ru/catalog/products/10398226/)
+   1. [Два](https://www.ikea.com/ru/ru/catalog/products/90374448/)
 1. **[Книга: Пиши сокращай](https://www.chitai-gorod.ru/catalog/book/938984/?watch_fromlist=search_result)** 519 рублей
    * 5% книги тинькофф + 10 процентов в тинькофф на читай город + 6% epn.bz
 1. **[Книга: маркус и ли](https://www.ozon.ru/context/detail/id/7149898/)** 549 рублей    
