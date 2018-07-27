@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Вещи для меня
 
-You can use the [editor on GitHub](https://github.com/intuito/goods_for_us/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [ ] **Квадрикоптер**
+- а нужен ли он мне? или нужнее, чем фотоаппарат
+- [ ] **Фотоаппарат**
+- фотоаппарат со сменный объективами
+- совместимый телеобъектив на 300 мм не стоит заоблачных денег
+- желателен time lapse
+- [ ] **ридер**
+- тут все сложно :(
+- [ ] **рюкзак для поездок**
+- судя по всему литров на 35
+- поясной ремень
+- отдел для ноута
+- карман для карточек на лямках
+- потайной карман на спине для ноутбука
+- [ ] **очки**
+1. Прочитать статью на хабре про линзы, определится с покрытиями и конструкцией линзы
+2. Определиться с формой оправы
+3. Пока предполагаю круглые очки от RayBan + хроматические линзы Transitions
+4. Вопрос: Если ехать по лесу на велосипеде: хроматические линзы норм?
+- [ ] **Книга: Пиши сокращай** 519 рублей https://www.chitai-gorod.ru/catalog/book/938984/?watch_fromlist=search_result
+* 5% книги тинькофф + 10 процентов в тинькофф на читай город + 6% epn.bz
+- [ ] **Книга: маркус и ли** 549 рублей https://www.ozon.ru/context/detail/id/7149898/
+ * 5% кэшбэк книги на тинькофф + 15% epn.bz
+- [ ] **толстовка с карманом для ноутбука** 2500 рублей https://beru.ru/product/100340760972?ncrnd=6460
+- (промокод бесплатная доставка)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/intuito/goods_for_us/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Вещи для семьи
+- [ ] **Духи на двоих**
+- сочетающиеся ароматы для совместных выходов в свет
+- [ ] **мультиварка**
+- вторая мультиварка для организации кухни
+- [ ] **ноутбук для поездок**
+- около 13", core i5-8xxx, 8+ Гб, не более 1,3 кг
+- [ ] **холодильник**
+- [ ] **микроволновка**
+- [ ] **роутер**
+- [ ] **сервер**
+- [ ] **прикроватные и настольные лампочки**
+## Вещи для дома родителей
+- [ ] кондиционер домой
